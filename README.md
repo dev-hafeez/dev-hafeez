@@ -106,12 +106,15 @@ Cloud Infrastructure
 
 ## Featured Project
 
-<div align="center">
 
-<a href="https://github.com/dev-hafeez/ee">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-hafeez&repo=ee&theme=tokyonight&hide_border=true" alt="EntangledEcho Repository" />
-</a>
+<div align="center">
+  <a href="https://github.com/dev-hafeez/ee">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-hafeez&amp;repo=ee&amp;theme=tokyonight&amp;hide_border=true" alt="EntangledEcho Repository" />
+  </a>
 </div>
+
+
+
 
 ### EntangledEcho
 
