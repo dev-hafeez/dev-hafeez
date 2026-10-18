@@ -108,10 +108,9 @@ Cloud Infrastructure
 
 <div align="center">
 
-<a href="https://github.com/dev-hafeez/EntangledEcho">
+<a href="https://github.com/dev-hafeez/ee">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-hafeez&repo=ee&theme=tokyonight&hide_border=true" alt="EntangledEcho Repository" />
 </a>
-
 </div>
 
 ### EntangledEcho
