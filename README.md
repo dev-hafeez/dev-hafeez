@@ -109,7 +109,7 @@ Cloud Infrastructure
 
 <div align="center">
   <a href="https://github.com/dev-hafeez/ee">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-hafeez&amp;repo=ee&amp;theme=tokyonight&amp;hide_border=true" alt="EntangledEcho Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-hafeez&amp;repo=ee&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400" alt="EntangledEcho Repository" />
   </a>
 </div>
 
