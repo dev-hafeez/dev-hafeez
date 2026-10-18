@@ -10,7 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-dev--hafeez-18181b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-hafeez)
 [![Focus](https://img.shields.io/badge/Focus-Artificial%20Intelligence-0891b2?style=for-the-badge&logoColor=white)](https://github.com/dev-hafeez)
-[!(https://komarev.com/ghpvc/?username=dev-hafeez&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)](https://github.com/dev-hafeez)
+[![](https://komarev.com/ghpvc/?username=dev-hafeez&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)](https://github.com/dev-hafeez)
 
 </div>
 
