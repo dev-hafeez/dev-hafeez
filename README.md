@@ -1,7 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:111827,100:312e81&height=180&section=header&text=ABDUL%20HAFEEZ&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=16&descAlignY=65&descColor=67e8f9" />
 
 <a href="https://github.com/dev-hafeez">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Applications;Exploring+Machine+Learning+%26+LLMs;Interested+in+Quantum-Inspired+Optimization;Turning+Ideas+Into+Intelligent+Systems" alt="Typing SVG" />
